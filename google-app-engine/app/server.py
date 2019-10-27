@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1sD7DBZpiyJWF3Wkw802QVPxQGJgZvlL6'
+model_file_url = 'https://onedrive.live.com/?authkey=%21AC4LnK59JFDRdPw&cid=8120970146921A85&id=8120970146921A85%21428&parId=root&action=locate'
 model_file_name = 'Final Good Model-50 epochs.pth'
 classes = ['Calls', 'Mastication', 'Nothing']
 path = Path(__file__).parent
